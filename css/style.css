@@ -1,0 +1,85 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@10..48,300&display=swap');
+
+body{
+
+    font-family: 'Bricolage Grotesque', sans-serif;
+}
+
+
+section.titulo1{
+   
+    width: 1440px;
+    height: 60px;
+    text-align: center ;
+}
+
+section.indice{
+    background-image: url('../img/foto.jpg');
+    text-align: center;
+}
+h1{
+    color: #005677;
+    font-feature-settings: 'cpsp' on;
+
+    font-size: 35px;
+    padding: 9.5px;
+}
+h2.titulo{
+    background: #C4C4C4;
+    width: 1440px;
+    height: 30px;
+    color: #005677;
+    font-feature-settings: 'cpsp' on;
+
+    font-size: 20px;
+}
+span.subtitulo1{
+    color: #000;
+
+    font-size: 15px;
+    font-style: italic;
+    font-weight: 700;
+}
+span.subtitulo2{
+    color: #000;
+    
+    font-size: 15px;
+}
+span.edad{
+    color: #000;
+
+    font-size: 15px;
+    font-weight: 700;
+}
+span{
+    color: #000;
+   
+    font-size: 15px;
+}
+span.footer{
+    color: #FFF;
+   
+    font-size: 20px;
+    font-weight: 700;
+}
+.lista{
+    list-style: none;
+}
+.abajo {
+    margin-left: 78px;
+}
+footer{
+    background: #005677;
+    text-align: center;
+    padding: 4px;
+    width: 1440px;   
+}
+.img{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+i{
+
+    color: white;
+}
